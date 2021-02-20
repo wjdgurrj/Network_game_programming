@@ -1,6 +1,8 @@
 # Network_game_programming
 
-📲 TCP 통신
+📲 SOCKET을 사용한 실시간 통신으로, server가 1player의 움직임 정보와 2player의 움직임 정보를 서로 실시간으로 주고 받을 수 있게 각각의 정보를 전송해준다.
+
+실행 예시) 
 
 👩player1 준비
 
